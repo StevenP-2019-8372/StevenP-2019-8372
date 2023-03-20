@@ -1,7 +1,7 @@
 <h1 align="center">⭐Bienvenidos⭐ </h1>
 <h3 align="center">👋mi nombre es Steven Paredes, 💻Desarrollador💻 soy de Republica Dominicana me gusta trabajar con C#.</h3>
 <div align="center">
-  🌱 Actualmente estoy aprendiendo: **Python.**
+  🌱 Actualmente estoy aprendiendo: **Pythony y MySql.**
 
  📫 pueden contactarme por correo: **stevenparedesc2003@gmail.com**
 
