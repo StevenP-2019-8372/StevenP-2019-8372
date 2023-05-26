@@ -1,5 +1,5 @@
 <h1 align="center">⭐Bienvenidos⭐ </h1>
-<h3 align="center">👋mi nombre es Steven Paredes, 💻Desarrollador💻 soy de Republica Dominicana me gusta trabajar con C#.</h3>
+<h3 align="center">👋mi nombre es Steven Paredes, 💻Desarrollador Web💻 soy de Republica Dominicana me gusta trabajar con C#.</h3>
 <div align="center">
   🌱 Actualmente estoy aprendiendo: **Pythony y MySql.**
 
