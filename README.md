@@ -5,7 +5,7 @@
 
  📫 pueden contactarme por correo: **stevenparedesc2003@gmail.com**
 
- 📄saber sobre mi experiencia: <p><a href="[https://drive.google.com/file/d/1jbVmt_n-L4V7yAQE35ol6LhDI_iT5Win/view?usp=drivesdk](https://itlaedudo-my.sharepoint.com/:b:/g/personal/20198372_itla_edu_do/EcwwvAk6cd1Fp_ZiNyzxxjwBAqRtkzxKpiDB8SGw_RjvGw?e=OBSlCM)">CV</p>
+ 📄saber sobre mi experiencia: <p><a href="https://drive.google.com/file/d/1jbVmt_n-L4V7yAQE35ol6LhDI_iT5Win/view?usp=drivesdk">CV</p>
   📖puedo decir que aprendo muy rapido📖 **📚📚📚📚📚📚📚📚📖**
 </div>
 <h3 align="center">Conecta conmigo:</h3>
